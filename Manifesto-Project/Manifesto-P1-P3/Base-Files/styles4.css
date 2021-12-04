@@ -1,0 +1,48 @@
+.one{
+  height: 100px;
+  width: 100px;
+  background-color:red;
+  border-radius: 50%;
+  display: inline-block;
+  color:black;
+  font-family:fantasy;
+}
+.two{
+  height: 100px;
+  width: 100px;
+  background-color:yellow;
+  border-radius: 50%;
+  display: inline-block;
+  color:black;
+  font-family:sans-serif;
+}
+.three{
+  height: 100px;
+  width: 100px;
+  background-color:green;
+  border-radius: 50%;
+  display: inline-block;
+  color:black;
+  font-family:cursive;
+}
+body{
+background:rgba(0, 128, 0, 0.3);
+background-repeat: no-repeat;
+color:#8E0101;
+font-size:40px;
+text-align:center;
+font-family: 'Dancing Script', cursive;
+
+}
+.image{
+   width:50%;
+   height:50%;
+   border-radius: 25px;
+   border: 5px solid black;
+}
+a{
+  text-decoration: none;
+  color:black;
+  font-size:50px;
+
+}

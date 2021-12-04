@@ -1,0 +1,43 @@
+.one{
+  height: 100px;
+  width: 100px;
+  background-color:red;
+  border-radius: 50%;
+  display: inline-block;
+  color:black;
+  font-family:fantasy;
+}
+.two{
+  height: 100px;
+  width: 100px;
+  background-color:yellow;
+  border-radius: 50%;
+  display: inline-block;
+  color:black;
+  font-family:sans-serif;
+}
+.three{
+  height: 100px;
+  width: 100px;
+  background-color:green;
+  border-radius: 50%;
+  display: inline-block;
+  color:black;
+  font-family:cursive;
+}
+
+body{
+Background-color:turquoise;
+font-family: 'Azeret Mono', monospace;
+text-align: center;
+
+}
+.image{
+  object-fit:contain;
+  max-width:33%;
+  max-height:100vh;
+}
+a{
+  text-decoration: none;
+  color:navy;
+}

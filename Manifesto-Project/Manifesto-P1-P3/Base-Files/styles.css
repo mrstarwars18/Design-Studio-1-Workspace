@@ -1,0 +1,30 @@
+
+
+
+.one{
+  height: 100px;
+  width: 100px;
+  background-color:red;
+  border-radius: 50%;
+  display: inline-block;
+  color:black;
+  font-family:fantasy;
+}
+.two{
+  height: 100px;
+  width: 100px;
+  background-color:yellow;
+  border-radius: 50%;
+  display: inline-block;
+  color:black;
+  font-family:sans-serif;
+}
+.three{
+  height: 100px;
+  width: 100px;
+  background-color:green;
+  border-radius: 50%;
+  display: inline-block;
+  color:black;
+  font-family:cursive;
+}

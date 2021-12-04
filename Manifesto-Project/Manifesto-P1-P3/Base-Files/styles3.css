@@ -1,0 +1,48 @@
+.one{
+  height: 100px;
+  width: 100px;
+  background-color:red;
+  border-radius: 50%;
+  display: inline-block;
+  color:black;
+  font-family:fantasy;
+}
+.two{
+  height: 100px;
+  width: 100px;
+  background-color:yellow;
+  border-radius: 50%;
+  display: inline-block;
+  color:black;
+  font-family:sans-serif;
+}
+.three{
+  height: 100px;
+  width: 100px;
+  background-color:green;
+  border-radius: 50%;
+  display: inline-block;
+  color:black;
+  font-family:cursive;
+}
+body{
+background-image:url("https://images.surfacemag.com/app/uploads/2020/03/25181537/enzo-mari-milan-triennale-1977_44-valutazioni.jpg");
+background-repeat: no-repeat;
+color:white;
+font-size:20px;
+text-align:center;
+font-family: 'Azeret Mono', monospace;
+font-family: 'Roboto Mono', monospace;
+}
+.image{
+   width:30%;
+   height:30%;
+   border-radius: 25px;
+   border: 2px solid black;
+}
+a{
+  text-decoration: none;
+  color:black;
+  font-size:25px;
+
+}
